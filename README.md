@@ -16,16 +16,16 @@ Fine-tuning · RAG · Agentic workflows · LLM APIs · Web scraping
 
 ## Featured projects
 
-### 🧠 [Numpy-GPT](https://github.com/Jessitoii/Numpy-GPT)
+### 🧠 [Numpy-GPT](https://github.com/Jessitoii/numpy-gpt)
 GPT built from scratch using only NumPy and CuPy — no PyTorch, no Hugging Face. Trained it on my own WhatsApp conversation history overnight. Built a PyQt5 GUI with a chat mode and a continuous token generation mode. Equal parts curiosity project and the most romantic thing I've ever done.
 
-### ♟️ [AlphaRes-Chess](https://github.com/Jessitoii/AlphaRes-Chess)
+### ♟️ [AlphaRes-Chess](https://github.com/Jessitoii/alphaRes-chess)
 Dual-head ResNet chess AI inspired by AlphaZero. Takes 12×8×8 bitboard input, outputs move probabilities (policy head, 4096 moves) and win probability (value head, Tanh). Trained via supervised imitation learning on engine-generated data. Playable inside PyChess-Vanilla.
 
-### ♟️ [PyChess-Vanilla](https://github.com/Jessitoii/PyChess-Vanilla)
+### ♟️ [PyChess-Vanilla](https://github.com/Jessitoii/pychess-vanilla)
 The foundation AlphaRes is built on. Full chess engine from scratch — move validation, board logic, GUI — no external chess libraries. Built this first, then couldn't stop.
 
-### 🖥️ [Windows OS Agent](https://github.com/Jessitoii/windows-os-agent)
+### 🖥️ [Windows OS Agent](https://github.com/Jessitoii/screen-agent)
 ReAct-based autonomous computer agent. User gives an instruction → agent takes a screenshot → LLM decides action + coordinates → tool executes → loop continues until done. Currently using Gemma3 12B via Ollama. Known limitation: LLMs struggle with exact coordinate grounding — planning a YOLO + bounding box upgrade.
 
 ---
