@@ -9,8 +9,8 @@ What drives me is the *how*. When something works, I need to know why — and th
 
 ## Stack
 
-`PyTorch` `Python` `FastAPI` `Expo / React Native` `TypeScript` `Docker`  
-LLM APIs · Fine-tuning · RAG · Agentic workflows · OSINT tooling
+`PyTorch` `Transformers` `NumPy` `Python` `Expo / React Native` `Next JS` `TypeScript` `Docker`  
+Fine-tuning · RAG · Agentic workflows · LLM APIs · Web scraping
 
 ---
 
@@ -43,6 +43,6 @@ ReAct-based autonomous computer agent. User gives an instruction → agent takes
 
 ---
 
-*Open to AI engineer roles at companies where AI is the product, not a feature. Relocating to Europe.*
+*CS grad with a focus on AI systems. Looking for roles where I can build things that matter — open to opportunities across Europe.*
 
 📫 alpercanzerr@gmail.com · [LinkedIn](https://www.linkedin.com/in/alper-can-%C3%B6zer-7bbbba247/)
