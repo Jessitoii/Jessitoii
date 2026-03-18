@@ -4,24 +4,6 @@ I've been writing code since middle school — started with game dev, went throu
 
 What drives me is the *how*. When something works, I need to know why — and that curiosity tends to go recursive. That's how I ended up building a GPT from scratch with just NumPy and CuPy instead of reaching for PyTorch. That's how a chess engine became a ResNet AI. That's how a "cool idea" turns into a 3am debugging session I didn't plan for.
 
----
-
-## What I build
-
-**AI & ML**
-- Transformers from scratch (NumPy/CuPy, no framework)
-- Fine-tuned BioBERT with focal loss for medical classification (graduation project)
-- Transformer + cosine similarity pipeline for CV–job matching
-- Crypto trading agent — months of fine-tuning, pump & dump detection, ultimately learned that markets are humbling
-
-**Agentic systems**
-- ReAct-loop agents with WebSocket streaming, tool use, and multi-step planning
-- Windows OS agent (screenshot → LLM → coordinate → action loop)
-- Multi-agent scaffolding framework that converts natural language into structured project blueprints
-
-**Mobile**
-- Expo/React Native apps shipped to Google Play
-- AI-integrated mobile experiences, zero-backend architectures
 
 ---
 
@@ -50,7 +32,7 @@ ReAct-based autonomous computer agent. User gives an instruction → agent takes
 
 ## Currently
 
-- Finishing my CS graduation project (BioBERT + focal loss, ophthalmology)
+- Finishing my CS graduation project (BioBERT, ophthalmology)
 - Building and shipping mobile apps with vibe coding workflows
 - Learning by doing — always
 
