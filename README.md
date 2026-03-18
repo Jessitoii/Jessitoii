@@ -28,7 +28,7 @@ What drives me is the *how*. When something works, I need to know why — and th
 ## Stack
 
 `PyTorch` `Python` `FastAPI` `Expo / React Native` `TypeScript` `Docker`  
-LLM APIs · Fine-tuning · RAG · Agentic workflows 
+LLM APIs · Fine-tuning · RAG · Agentic workflows · OSINT tooling
 
 ---
 
@@ -50,9 +50,14 @@ ReAct-based autonomous computer agent. User gives an instruction → agent takes
 
 ## Currently
 
-- Finishing my CS graduation project (BioBERT, ophthalmology)
+- Finishing my CS graduation project (BioBERT + focal loss, ophthalmology)
 - Building and shipping mobile apps with vibe coding workflows
 - Learning by doing — always
+
+---
+
+![Alper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jessitoii&show_icons=true&hide_border=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessitoii&layout=compact&hide_border=true&theme=default)
 
 ---
 
