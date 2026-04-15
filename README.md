@@ -38,11 +38,11 @@ ReAct-based autonomous computer agent. User gives an instruction → agent takes
 
 ---
 
-![Alper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jessitoii&show_icons=true&hide_border=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessitoii&layout=compact&hide_border=true&theme=default)
+![Alper's GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
 *CS grad with a focus on AI systems. Looking for roles where I can build things that matter — open to opportunities across Europe.*
 
-📫 alpercanzerr@gmail.com · [LinkedIn](https://www.linkedin.com/in/alper-can-%C3%B6zer-7bbbba247/)
+📫 alpercanzerr1600@gmail.com · [LinkedIn](https://www.linkedin.com/in/alper-can-%C3%B6zer-7bbbba247/)
