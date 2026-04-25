@@ -51,7 +51,7 @@ Built with Flutter and on-device LLM inference.
 
 ---
 
-### 🎵 [CNN Genre Classification (FMA)](https://github.com/Jessitoii/numpy-gpt](https://github.com/Jessitoii/cnn-based-genre-recognition-fma)
+### 🎵 [CNN Genre Classification (FMA)](https://github.com/Jessitoii/cnn-based-genre-recognition-fma)
 
 Music genre classification using CNN + Mel-Spectrograms on the FMA dataset.
 
