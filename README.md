@@ -1,77 +1,76 @@
 # Hey, I'm Alper 👋
 
-AI systems engineer focused on building agentic workflows, LLM-powered tools, and from-scratch model implementations.
+Computer Engineering senior building AI agents and ML-powered systems.
 
-I build systems end-to-end — from low-level model implementations (NumPy GPT) to full agent pipelines. I care about understanding how things work under the hood, not just using them.
+I focus on understanding systems from the ground up — from implementing models (NumPy GPT) to building end-to-end agent pipelines.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" height="150" />
+  <img src="./profile/top-langs.svg" height="150" />
+</p>
 
 ---
 
 ## Stack
 
 **Core**
-Python · PyTorch · Transformers · NumPy  
+Python · PyTorch · Transformers · NumPy
 
 **AI Systems**
-LLM Systems · Agentic Workflows · Fine-tuning · RAG  
+LLM Systems · Agentic Workflows · Fine-tuning · RAG
 
 **Other**
-React Native · TypeScript · Docker  
+React Native · TypeScript · Docker
 
 ---
 
 ## Featured Projects
 
-### 🧠 [Numpy-GPT](https://github.com/Jessitoii/numpy-gpt)
-Implemented a GPT-style transformer from scratch using only NumPy and CuPy (no PyTorch, no Hugging Face).  
-Includes tokenization, attention mechanism, and full training loop.  
-Built a PyQt5 interface for interactive and continuous text generation.
+### 🧠 Numpy-GPT
+
+Implemented a GPT-style transformer from scratch using only NumPy and CuPy (no PyTorch, no Hugging Face).
+Includes tokenization, attention mechanism, and full training loop.
 
 ---
 
-### ♟️ [AlphaRes-Chess](https://github.com/Jessitoii/alphaRes-chess)
-Built an AlphaZero-inspired dual-head ResNet for chess.  
-Takes 12×8×8 board representation and outputs:
-- Move probabilities (policy head)
-- Win probability (value head)  
+### 🧠 ClinicaEye-NLP
 
-Trained via supervised learning on engine-generated data.
+BioBERT-based NLP model for ophthalmology disease classification.
+Fine-tuned with focal loss to handle class imbalance.
 
 ---
 
-### ♟️ [PyChess-Vanilla](https://github.com/Jessitoii/pychess-vanilla)
-Developed a full chess engine from scratch with:
-- Move generation & validation  
-- Board logic  
-- GUI  
+### 📱 OpenReef *(in progress)*
 
-No external chess libraries used. Forms the foundation for AlphaRes.
+Privacy-first, fully offline AI agent for mobile devices.
+Built with Flutter and on-device LLM inference.
 
 ---
 
-### 🖥️ [Windows OS Agent](https://github.com/Jessitoii/screen-agent)
-Built a ReAct-based autonomous desktop agent:  
-screenshot → LLM reasoning → action execution loop  
+### 🎵 CNN Genre Classification (FMA)
 
-- Uses Gemma3 12B via Ollama  
-- Executes real UI actions via coordinates  
-- Identified core limitation in coordinate grounding  
-- Designed improvement with vision-based detection (YOLO + bounding boxes)
+Music genre classification using CNN + Mel-Spectrograms on the FMA dataset.
 
 ---
 
 ## Currently
 
-- Building and shipping AI-powered mobile apps  
-- Working on BioBERT-based clinical NLP system (graduation project)  
-- Improving system design and ML fundamentals for production-level systems  
+* Building AI-powered mobile apps
+* Improving ML fundamentals and system design
 
 ---
 
 ## Goal
 
-Looking for junior AI/ML or LLM systems roles in Europe.
+Looking for **Junior AI/ML / LLM Systems roles**
 
 ---
 
-📫 alpercanzerr1600@gmail.com  
-🔗 https://www.linkedin.com/in/alper-can-%C3%B6zer-7bbbba247/
+## Contact
+
+📫 [alpercanzerr1600@gmail.com](mailto:alpercanzerr1600@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/alper-can-%C3%B6zer-7bbbba247/
